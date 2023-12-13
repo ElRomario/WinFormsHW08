@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\HW08Paint\HW08Paint\bin\Debug\net8.0-windows\HW08Paint.exe
+C:\Users\User\source\repos\HW08Paint\HW08Paint\bin\Debug\net8.0-windows\HW08Paint.deps.json
+C:\Users\User\source\repos\HW08Paint\HW08Paint\bin\Debug\net8.0-windows\HW08Paint.runtimeconfig.json
+C:\Users\User\source\repos\HW08Paint\HW08Paint\bin\Debug\net8.0-windows\HW08Paint.dll
+C:\Users\User\source\repos\HW08Paint\HW08Paint\bin\Debug\net8.0-windows\HW08Paint.pdb
+C:\Users\User\source\repos\HW08Paint\HW08Paint\obj\Debug\net8.0-windows\HW08Paint.Form1.resources
+C:\Users\User\source\repos\HW08Paint\HW08Paint\obj\Debug\net8.0-windows\HW08Paint.csproj.GenerateResource.cache
+C:\Users\User\source\repos\HW08Paint\HW08Paint\obj\Debug\net8.0-windows\HW08Paint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HW08Paint\HW08Paint\obj\Debug\net8.0-windows\HW08Paint.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HW08Paint\HW08Paint\obj\Debug\net8.0-windows\HW08Paint.AssemblyInfo.cs
+C:\Users\User\source\repos\HW08Paint\HW08Paint\obj\Debug\net8.0-windows\HW08Paint.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HW08Paint\HW08Paint\obj\Debug\net8.0-windows\HW08Paint.dll
+C:\Users\User\source\repos\HW08Paint\HW08Paint\obj\Debug\net8.0-windows\refint\HW08Paint.dll
+C:\Users\User\source\repos\HW08Paint\HW08Paint\obj\Debug\net8.0-windows\HW08Paint.pdb
+C:\Users\User\source\repos\HW08Paint\HW08Paint\obj\Debug\net8.0-windows\HW08Paint.genruntimeconfig.cache
+C:\Users\User\source\repos\HW08Paint\HW08Paint\obj\Debug\net8.0-windows\ref\HW08Paint.dll
